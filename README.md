@@ -1,7 +1,7 @@
 
 #GaCDproject
 
-This repository hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning data", available in coursera.
+This repository hosts the R code and documentation files for the Coursera Data Science course "Getting and Cleaning Data".
 
 ##Files
 The code takes for granted all the data is present in the same folder, un-compressed and without names altered.
