@@ -8,6 +8,7 @@ Additional information about the variables, data and transformations used in the
 
 A full description of the data used in this project can be found at The UCI Machine Learning Repository
 
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ##Data Set Information
 
@@ -29,14 +30,14 @@ An identifier of the subject who carried out the experiment.
 
 After setting the source directory for the files, read into tables the data located in
 
-*features.txt
-*activity_labels.txt
-*subject_train.txt
-*x_train.txt
-*y_train.txt
-*subject_test.txt
-*x_test.txt
-*y_test.txt
+* features.txt
+* activity_labels.txt
+* subject_train.txt
+* x_train.txt
+* y_train.txt
+* subject_test.txt
+* x_test.txt
+* y_test.txt
 Assign column names and merge to create one data set.
 
 ##Section 2. Extract only the measurements on the mean and standard deviation for each measurement.
